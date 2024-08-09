@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;}
+*{
+    background-color: rgb(117, 55, 55);
+}
+.nav1{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-right: 20%;
+}
+.nav-h1{
+color: #E6533C;
+font-size: 2rem;
+font-style: italic;
+}
+.nav-ul{
+    display: flex;
+    align-items: center;
+}
+.nav-li{
+list-style: none;
+margin-left:20%;
+}
+.nav-a{
+    text-decoration: none;
+    color: #ffff;
+}
+.nav-li-btn{
+    background-color: #E6533C;
+    border-radius: 46px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 8px 20px;
+    border: none;
+}
+.header-sec{
+    display: flex;
+    gap: 15%;
+    
+}
+.header-2ndsec{
+
+}
+.header-2ndsec-h1{
+    font-size: 4rem;
+    color: #fff;
+}
+.head-s{
+
+}
+.header-2ndsec-p{
+    color: #ffff;
+    font-size: 1rem;
+    font-weight: 200;
+}
+.btn-2{
+    padding: 16px 40px;
+    border-radius: 42px;
+    background-color: #E6533C;
+    color: #ffff;
+    font-size: 1.1rem;
+    border: none;
+    
+}
+.btn-3{
+    padding: 16px 40px;
+    border-radius: 42px;
+    background-color: black;
+    font-size: 1.2rem;
+    color: #ffff;
+    border-color: #ffff;
+}
+.header-section{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.a{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+.header-div-2{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    gap: 2%;
+}
+.h1-header{
+    font-size: 2rem;
+    color: #ffff;
+    masonry-auto-flow: 0%;
+}
+.p-header{
+    color: #ffff;
+    font-weight: 200;
+    margin: 0%;
+    padding: 0%;
+}
+/* 1 page end */
+.img{
+    border-radius: 50%;
+}
+.main-div-img{
+    font-size: 1.1rem;
+    color: #ffff;
+    font-weight: 500;
+}
+.main-div-p{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1rem;
+    font-weight: 200;
+}
+.section-div{
+    display: flex;
+    margin: 2%;
+    text-align: center;
+    gap: 5%;
+    padding-top: 3%;
+}
+.sec-h1-main{
+    text-align: center;
+    color: #ffff;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.sec-p-main{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1rem;
+    font-weight:200;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+/* sec2 com */
