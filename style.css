@@ -138,3 +138,30 @@ margin-left:20%;
 
 }
 /* sec2 com */
+.sub-sec-h1{
+    font-size: 3rem;
+    color:#ffff ;
+}
+.btn-4{
+    font-size: 1.1rem;
+    color: #ffff;
+    background-color: #E6533C;
+    border-radius: 42px;
+    font-weight: 300;
+    padding: 16px 70px;
+    border: none;
+    margin-top: 10px;
+}
+.sub-sec{
+    display: flex;
+    padding: 10%;
+    gap: 10%;
+    
+}
+.sub-sec-2{
+    border-radius: 20px;
+    width: 366px;
+    height: 312px;
+    size: 100%;
+}
+/* part3 end */
